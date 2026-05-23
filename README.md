@@ -23,5 +23,5 @@ I have worked on projects such as:
 Aspiring to build a career in Data Analytics and Business Intelligence by applying analytical thinking, visualization techniques, and real-world problem-solving skills through internships and professional opportunities.
 
 ## 🔗 Connect With Me
-LinkedIn: https://www.linkedin.com/in/beeram-rohini-reddy  
+LinkedIn: https://www.linkedin.com/in/beeram-rohini-reddy-92194432b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 GitHub: https://github.com/rohinibeeram22-byte
